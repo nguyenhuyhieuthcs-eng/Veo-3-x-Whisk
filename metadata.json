@@ -1,0 +1,5 @@
+{
+  "name": "Whisk + Veo3 Combo Showcase",
+  "description": "A modern web application to showcase the AI-powered Whisk image generator and Veo3 video creator, complete with a mock backend for a full user experience.",
+  "requestFramePermissions": []
+}

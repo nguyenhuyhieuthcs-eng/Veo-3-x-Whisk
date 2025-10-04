@@ -1,0 +1,18 @@
+
+{
+  "name": "whisk-veo-server",
+  "version": "1.0.0",
+  "description": "API server for the Whisk + Veo3 Showcase app with mock and Gemini API modes.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@google/genai": "^0.14.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.18.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
